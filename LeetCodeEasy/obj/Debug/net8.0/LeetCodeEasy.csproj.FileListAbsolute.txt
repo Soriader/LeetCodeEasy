@@ -12,3 +12,4 @@ C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\net8.0\refint\Lee
 C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\net8.0\LeetCodeEasy.pdb
 C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\net8.0\LeetCodeEasy.genruntimeconfig.cache
 C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\net8.0\ref\LeetCodeEasy.dll
+C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasy\obj\Debug\net8.0\LeetCodeEasy.sourcelink.json

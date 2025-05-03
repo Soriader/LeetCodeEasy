@@ -103,3 +103,4 @@ C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasyTest\obj\Debug\net8.0\refint
 C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasyTest\obj\Debug\net8.0\LeetCodeEasyTest.pdb
 C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasyTest\obj\Debug\net8.0\LeetCodeEasyTest.genruntimeconfig.cache
 C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasyTest\obj\Debug\net8.0\ref\LeetCodeEasyTest.dll
+C:\Users\ROG\RiderProjects\LeetCodeEasy\LeetCodeEasyTest\obj\Debug\net8.0\LeetCodeEasyTest.sourcelink.json
