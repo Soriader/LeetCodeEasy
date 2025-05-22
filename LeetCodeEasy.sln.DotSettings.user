@@ -25,6 +25,8 @@
       &lt;TestId&gt;NUnit3x::8529E4F3-AE57-483B-950D-C75D6140915D::net8.0::LeetCodeEasyTest.BestTimeToBuyAndSellStockTest.BestTimeToBuyAndSellStock&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::8529E4F3-AE57-483B-950D-C75D6140915D::net8.0::LeetCodeEasyTest.SingleNumberTest.SingleNumber&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::8529E4F3-AE57-483B-950D-C75D6140915D::net8.0::LeetCodeEasyTest.SingleNumberTest.SingleNumberCheck&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::8529E4F3-AE57-483B-950D-C75D6140915D::net8.0::LeetCodeEasyTest.StudentAttendanceRecordITest.StudentAttendanceRecordI&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::8529E4F3-AE57-483B-950D-C75D6140915D::net8.0::LeetCodeEasyTest.StudentAttendanceRecordITest&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
