@@ -14,7 +14,7 @@
 # Visual Studio user-specific files
 *.DotSettings.user
 
-# Projekt-specific (dostosuj ścieżki do swojej struktury)
+# Projekt-specific 
 LetCodeEasy/obj/
 LetCodeEasy/bin/
 LetCodeEasyTest/obj/
